@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![ssh0820's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh0820&show_icons=true&theme=radical)
 
 
